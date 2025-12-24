@@ -1,0 +1,11 @@
+{
+  "name": "04-fs_modules",
+  "version": "1.0.0",
+  "description": "programmer",
+  "main": "syncfs.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "devang",
+  "license": "ISC"
+}

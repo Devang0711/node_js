@@ -1,0 +1,15 @@
+{
+  "name": "02-esmodules",
+  "version": "1.0.0",
+  "description": "programmer",
+  "type": "module",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "devang",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^3.1.11"
+  }
+}
